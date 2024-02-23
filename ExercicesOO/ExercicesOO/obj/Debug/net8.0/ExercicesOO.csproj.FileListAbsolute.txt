@@ -1,0 +1,14 @@
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.AssemblyInfoInputs.cache
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.AssemblyInfo.cs
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.csproj.CoreCompileInputs.cache
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\bin\Debug\net8.0\ExercicesOO.exe
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\bin\Debug\net8.0\ExercicesOO.deps.json
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\bin\Debug\net8.0\ExercicesOO.runtimeconfig.json
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\bin\Debug\net8.0\ExercicesOO.dll
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\bin\Debug\net8.0\ExercicesOO.pdb
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.dll
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\refint\ExercicesOO.dll
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.pdb
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ExercicesOO.genruntimeconfig.cache
+C:\Users\b.gillieaux\Documents\Algo C#\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ref\ExercicesOO.dll
